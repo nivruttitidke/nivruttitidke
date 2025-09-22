@@ -32,5 +32,10 @@
 - ✉️ Email: *nivruttitidke108@gmail.com*  
 
 ---
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nivrutti-tidke&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 ⭐️ From [Nivrutti Tidke](https://github.com/your-username)  

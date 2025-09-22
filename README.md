@@ -16,21 +16,20 @@
 - **Languages:** C, C++, Java, JavaScript, Python  
 - **Web:** HTML, CSS, Node.js, React.js, Express.js  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Tools:** Git, GitHub, VS Code 
 
 ---
 
 ## 📂 Featured Projects
 - 🌐 [Major Project: Web App for Listings](#) (MongoDB + Node.js + Express + EJS)  
 - 🤖 [Mini ML Project](#)  
-- 📱 [Other personal projects](#)  
 
 ---
 
 ## 📫 Connect With Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nivrutti-tidke/)  
-- 💻 [GitHub](https://github.com/your-username)  
-- ✉️ Email: *your-email-here*  
+- 💻 [GitHub](https://github.com/nivruttitidke)  
+- ✉️ Email: *nivruttitidke108@gmail.com*  
 
 ---
 

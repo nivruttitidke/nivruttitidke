@@ -21,7 +21,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🌐 [Major Project: Web App for Listings](#) (MongoDB + Node.js + Express + EJS)  
+- 🌐 [Major Project: Web App ](#) ( Node.js + Express + EJS)  
 - 🤖 [Mini ML Project](#)  
 
 ---

@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nivrutti Tidke  
 
-🎓 **Computer Engineering Student** | 💻 Passionate about Software Development, Web Technologies & Problem Solving  
-
+🎓 **Computer Engineering Student** | 💻 Full-Stack Web Developer (MERN) | 📚 DSA Enthusiast  
 ---
 
 ## 🚀 About Me
@@ -14,16 +13,18 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Java, JavaScript, Python  
-- **Web:** HTML, CSS, Node.js, React.js, Express.js  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code 
+- **Frontend:** HTML5, CSS3, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, REST APIs  
+- **Other Interests:** Algorithms & Data Structures, Cloud Computing, Machine Learning  
 
 ---
 
 ## 📂 Featured Projects
-- 🌐 [Major Project: Web App ](#) ( Node.js + Express + EJS)  
-- 🤖 [Mini ML Project](#)  
-
+- **Full-Stack Listing App:** Built a MERN application where users can add/edit listings, upload images, and search.  
+- **Algorithm Visualiser:** A web-based tool showing sorting/searching algorithms in action (JavaScript).  
+   
 ---
 
 ## 📫 Connect With Me
